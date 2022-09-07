@@ -95,6 +95,11 @@ footer p{
 @media (max-width:600px) {
     .main h1{
         color: black;
+        font-size:2rem;
+        
+    }
+    .heading h1{
+        font-size:1.8rem
     }
     .cards{
         flex-direction: column;
