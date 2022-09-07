@@ -6,7 +6,7 @@
 
 /* hero section */
 .main{
-    background-image: url(images/bgimg.avif);
+    background-image: url(/images/bgimg.avif);
     width: 100%;
     height: 70vh;
     background-size:cover;
