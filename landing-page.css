@@ -107,7 +107,6 @@ footer p{
     }
     .box{
         width: 100%;
-        margin: auto;
     }
     .contact{
         flex-direction: column;
@@ -115,7 +114,8 @@ footer p{
     }
     .con{
         width: 95%;
-        margin: auto;
+        margin:auto;
+       
     }
     .about-me{
         margin-top: 1em;
