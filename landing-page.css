@@ -25,7 +25,7 @@ span{
 /* heading section */
 .heading{
     background-color: black;
-    height: 10vh;
+    height: auto;
 }
 .heading h1{
     font-size: 2rem;
